@@ -5,4 +5,4 @@ eps --> permittivity of the dielectric material between the plates.
 A --> Area of the overlap between the plates
 d --> Distance between capacitor plates
 
-One of the capacitor plates moves as the liquid flows, inducing a change in capacitance as distance between plates changes. Further information and detailed description of what I did can be found in the project report
+One of the capacitor plates moves as the liquid flows, inducing a change in capacitance as distance between plates changes. Further information and detailed description of what I did can be found in the project report, which has a .docx and a .pdf file in the Project Report folder. Simulation files can be found in the LTSpice files folder.
